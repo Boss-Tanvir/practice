@@ -8,4 +8,14 @@ body {
 img {
   width: 200px;
   height: auto;
+  border-radius: 10px;
+}
+
+#meal {
+  background-color: #fff;
+  width: 200px;
+  height: auto;
+  overflow: hidden;
+}
+.meal_item {
 }
